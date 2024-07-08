@@ -1,0 +1,6 @@
+[package]
+name = "state_pattern"
+description = "A way to implement the State Pattern from chapter 17 in the Rust Book"
+version = "0.1.0"
+edition = "2021"
+author = "Stanislav Doroshenko @wavesvoid"

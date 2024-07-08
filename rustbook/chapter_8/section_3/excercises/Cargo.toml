@@ -1,0 +1,18 @@
+[package]
+name = "ch8s3_excercises"
+description = """
+    Solutions to suggested excercises
+    at the end of the 3rd section of chapter 8 of The Rust Book
+"""
+version = "1.0.0"
+authors = ["Stanislav Doroshenko @wavesvoid"]
+edition = "2021"
+
+[lib]
+name = "chapter8"
+path = "src/lib.rs"
+
+
+[[bin]]
+name = "employee_cli"
+path = "src/bin/employee_cli/main.rs"

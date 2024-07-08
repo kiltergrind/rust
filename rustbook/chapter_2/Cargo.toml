@@ -1,0 +1,14 @@
+[package]
+name = "guessingame"
+version = "0.1.0"
+edition = "2021"
+author = "Stanislav Doroshenko @wavesvoid"
+
+
+[[bin]]
+name = "guessingame"
+path = "main.rs"
+
+
+[dependencies]
+rand = "0.8.5"
