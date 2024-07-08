@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "task_3_4",
+    "task_5_8",
+    "task_7_6",
+    "task_8_6",
+    "task_9_4",
+    "task_11_5",
+    "task_12_7",
+    "task_14_8",
+    "task_15_5",
+    "task_16_3",
+]
